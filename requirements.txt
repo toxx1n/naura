@@ -6,8 +6,7 @@ Babel==2.11.0
 Beaker==1.12.1
 beautifulsoup4==4.12.2
 blinker==1.6.3
-blivet==3.7.1
-blivet-gui==3.3.0
+
 Brlapi==0.8.4
 cffi==1.15.1
 chardet==5.2.0
